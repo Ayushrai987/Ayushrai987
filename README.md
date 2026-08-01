@@ -109,15 +109,15 @@ I love building scalable applications, exploring AI/ML technologies, and solving
 
 ---
 
-## 🎮 Contribution Graph
+## 📊 Contribution Graph
 
 <div align="center">
 
-### 🐍 Contribution Snake Animation
+### 📈 Your Contribution Activity
 
-![snake gif](https://github.com/Ayushrai987/Ayushrai987/blob/output/github-contribution-grid-snake-dark.svg)
+![contribution graph](https://github.com/Ayushrai987/Ayushrai987/blob/output/github-contribution-graph.svg)
 
-*Contribution graph animated as a snake game! 🎯*
+*Visual representation of your contribution activity over time! 📊*
 
 </div>
 
