@@ -2,11 +2,11 @@
 
 # 👋 Hi, I'm **Ayush Rai**
 
-### Full-Stack Developer | AI Enthusiast | Problem Solver
+### Full-Stack Developer  |  AI Enthusiast  |  Problem Solver
 
 <p>
 Building practical web applications, exploring Generative AI,
-and turning ideas into working products.
+and turning ideas into useful products.
 </p>
 
 <br>
@@ -95,7 +95,7 @@ I'm particularly interested in systems that can **use tools, interact with APIs 
 
 </td>
 
-<td width="42%" valign="middle" align="center">
+<td width="42%" align="center" valign="middle">
 
 <img
 src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"
@@ -108,6 +108,7 @@ alt="Developer coding animation"
 <img
 src="https://capsule-render.vercel.app/api?type=rounded&height=100&text=BUILD%20%2B%20LEARN&fontSize=25&fontColor=ffffff&animation=fadeIn&color=0:111827,50:312e81,100:7c3aed"
 width="100%"
+alt="Build and Learn"
 />
 
 <br><br>
