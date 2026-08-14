@@ -4,10 +4,6 @@
 
 ### Full-Stack Developer | AI Enthusiast | Problem Solver
 
-<p>
-Building practical web applications, exploring Generative AI,
-and turning ideas into working products.
-</p>
 
 <br>
 
@@ -21,11 +17,11 @@ and turning ideas into working products.
 <img src="https://img.shields.io/badge/EMAIL-CONTACT-111827?style=for-the-badge&logo=gmail&logoColor=white&labelColor=312E81"/>
 </a>
 
-<br><br>
+<br>
 
 <img src="https://komarev.com/ghpvc/?username=Ayushrai987&style=for-the-badge&color=8B5CF6&label=PROFILE+VIEWS"/>
 
-<br><br>
+<br>
 
 <img src="https://img.shields.io/github/followers/Ayushrai987?style=for-the-badge&label=FOLLOWERS&color=7C3AED&labelColor=111827"/>
 <img src="https://img.shields.io/github/stars/Ayushrai987?style=for-the-badge&label=TOTAL%20STARS&color=8B5CF6&labelColor=111827"/>
