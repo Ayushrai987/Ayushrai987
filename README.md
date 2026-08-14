@@ -1,213 +1,304 @@
-# <div align="center"> 👋 Hey, I'm Ayush Rai! </div>
-
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;AI%2FML+Enthusiast;Problem+Solver;Building+Amazing+Projects" alt="Typing SVG" />
+
+# 👋 Hey, I'm **Ayush Rai**
+
+### `Building useful software at the intersection of Web Development & AI.`
+
+<p>
+  <a href="https://github.com/Ayushrai987">
+    <img src="https://img.shields.io/badge/GitHub-Ayushrai987-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/ayush-rai-501355362/">
+    <img src="https://img.shields.io/badge/LinkedIn-Ayush%20Rai-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:ayurai6387@gmail.com">
+    <img src="https://img.shields.io/badge/Email-ayurai6387%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+<img src="https://komarev.com/ghpvc/?username=Ayushrai987&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS" />
+
 </div>
 
 ---
 
-<div align="center">
-  
-### 💻 Full-Stack Developer | 🤖 AI Enthusiast | 🚀 Tech Innovator
+## 🧠 About Me
 
-I love building scalable applications, exploring AI/ML technologies, and solving complex problems through code.
+I'm a **B.Tech Information Technology student** focused on becoming a strong software engineer by building real products instead of only following tutorials.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ayushrai987)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ayushrai987)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
+My current focus is on:
 
-<img src="https://komarev.com/ghpvc/?username=Ayushrai987&style=flat-square&color=blueviolet" alt="Profile views" />
+* ⚡ Building modern **full-stack web applications**
+* 🤖 Exploring **Generative AI, AI integrations & automation**
+* 🧩 Strengthening **DSA & problem-solving with Java**
+* 🛠️ Turning ideas from hackathons into working products
+* ☁️ Learning deployment, APIs, backend systems and production workflows
 
-</div>
+I enjoy working on projects where **frontend, backend, APIs, automation and AI come together**.
+
+> *Learn → Build → Break → Debug → Ship → Repeat.*
 
 ---
 
-## 🔧 Tech Stack
+## 🚀 What I'm Building
+
+```text
+Web Development     ████████████████████░  Strong focus
+Generative AI        █████████████████░░░  Growing
+Java + DSA           ████████████████░░░░  Building fundamentals
+Backend & APIs       ███████████████░░░░░  Developing
+Cloud & Deployment   ██████████████░░░░░░  Exploring
+```
+
+---
+
+# 🛠️ Tech Stack
 
 ### 💻 Languages
-<div align="center">
-  
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-</div>
+<p>
+<img src="https://skillicons.dev/icons?i=java,js,ts,python,html,css" />
+</p>
 
 ### 🎨 Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,vite,tailwind,threejs" />
+</p>
+
+### ⚙️ Backend, Database & APIs
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,firebase,mongodb,mysql" />
+</p>
+
+### 🤖 AI & Automation
+
+<p>
+<img src="https://skillicons.dev/icons?i=python" />
+<img src="https://img.shields.io/badge/Generative%20AI-8A2BE2?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
+<img src="https://img.shields.io/badge/Retell%20AI-111827?style=for-the-badge&logoColor=white" />
+</p>
+
+### 🔧 Tools & Platforms
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,postman" />
+</p>
+
+---
+
+# 🔥 Featured Projects
+
+## 🤖 JARVIS — Personal AI Voice Assistant
+
+> A futuristic personal AI assistant combining real-time voice interaction, automation and live personal context.
+
+**Built with:** React • Vite • Retell AI • n8n • WebRTC • Google Calendar • APIs
+
+**Highlights**
+
+* 🎙️ Real-time bidirectional voice conversations
+* 🧠 AI-powered conversational interaction
+* ⚡ n8n automation backend
+* 🌦️ Live weather & news telemetry
+* 📅 Google Calendar integration
+* 🎨 Futuristic HUD-style interface
+* 🔐 Short-lived authentication tokens instead of exposing secrets
+
+🔗 **[View Repository →](https://github.com/Ayushrai987/Personal-Ai)**
+
+---
+
+## ⏱️ Chronous — Intelligent Task & Time Management
+
+> A smart task-management platform built around better scheduling and productivity.
+
+**Built with:** TypeScript • React • Firebase • Tailwind CSS
+
+**Highlights**
+
+* 📋 Task management
+* 🧠 Intelligent scheduling concepts
+* 📊 Productivity-focused interface
+* 🔔 Real-time functionality
+* 🏆 Built during a GTBIT hackathon
+
+🔗 **[View Repository →](https://github.com/Ayushrai987/Chronous)**
+
+---
+
+## 🌱 Carbon Footprint Platform
+
+> An intelligent platform designed to help users understand and reduce their environmental impact.
+
+**Built with:** TypeScript • AI/ML • Node.js • MongoDB
+
+**Highlights**
+
+* 🌍 Carbon footprint analysis
+* 📊 Environmental insights
+* 🤖 Intelligent recommendations
+* 📈 Data-driven sustainability experience
+
+🔗 **[View Repository →](https://github.com/Ayushrai987/carbon-footprint-platform)**
+
+---
+
+## 🗳️ VoteBuddyy
+
+> A modern digital voting platform focused on transparency, usability and secure voting workflows.
+
+**Built with:** TypeScript • React • Node.js • PostgreSQL
+
+**Highlights**
+
+* 🗳️ Digital voting workflow
+* 🔐 Security-focused architecture
+* 📊 Real-time vote counting
+* 🎨 Modern user experience
+
+🔗 **[View Repository →](https://github.com/Ayushrai987/VoteBuddyy)**
+
+---
+
+## 🧪 Creative Codex — XEN-O-THON
+
+> A machine-learning and data-science focused project developed for competitive problem solving.
+
+**Built with:** Python • Jupyter Notebook • Data Science • Machine Learning
+
+**Highlights**
+
+* 📊 Data exploration & visualization
+* 🤖 Machine learning experimentation
+* 🧠 Problem-focused development
+* 🚀 Built in a hackathon environment
+
+🔗 **[View Repository →](https://github.com/Ayushrai987/Creative-codex--xenothon)**
+
+---
+
+# 🧩 DSA & Problem Solving
+
+Currently strengthening my problem-solving fundamentals with **Java**.
+
+### Focus Areas
+
+`Arrays` `Strings` `Hashing` `Stack` `Queue` `Linked List` `Trees` `Graphs` `Recursion` `Dynamic Programming`
+
+📌 I also maintain a dedicated repository for my **LeetCode solutions and DSA practice**.
+
+🔗 **[Explore DSA Repository →](https://github.com/Ayushrai987/Leetcode-soln)**
+
+---
+
+# 🏆 Achievements & Experience
+
+| 🚀 | Achievement                                                                          |
+| -- | ------------------------------------------------------------------------------------ |
+| 🥇 | **GDG / GTBIT Hackathon** — participated in building a real-world technical solution |
+| 💻 | **Hackathon Finalist** — experience building and presenting under time constraints   |
+| 📊 | **Data Analytics Job Simulation** — practical exposure to data analysis workflows    |
+| 🎓 | **8.8 CGPA** — B.Tech Information Technology                                         |
+| 🤖 | Participated in **Generative AI / AI-focused events & challenges**                   |
+| 🧠 | Participated in **PromptWars** and multiple competitive coding/tech challenges       |
+
+---
+
+# 📚 Currently Learning
+
+```text
+Java + DSA
+    ↓
+Problem Solving
+    ↓
+React & Modern Frontend
+    ↓
+Backend + APIs
+    ↓
+AI Integrations
+    ↓
+Automation & AI Agents
+    ↓
+Production-ready Applications
+```
+
+I'm particularly interested in moving from **"AI-powered features" → "AI agents that can actually perform tasks."**
+
+---
+
+# 📊 GitHub Analytics
+
 <div align="center">
-  
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
-![Material_UI](https://img.shields.io/badge/Material_UI-0081CB?style=flat-square&logo=mui&logoColor=white)
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Ayushrai987&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayushrai987&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
 
-### ⚙️ Backend & Database
+<br>
+
 <div align="center">
-  
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 
-</div>
-
-### ☁️ Cloud & DevOps
-<div align="center">
-  
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
-![Google_Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-
-</div>
-
-### 🤖 AI & Machine Learning
-<div align="center">
-  
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-
-</div>
-
-### 🛠️ Tools & Version Control
-<div align="center">
-  
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VS_Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+<img src="https://streak-stats.demolab.com?user=Ayushrai987&theme=tokyonight&hide_border=true" />
 
 </div>
 
 ---
 
-## 📊 GitHub Statistics
+# 📈 Contribution Activity
 
 <div align="center">
 
-### ⚡ My GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ayushrai987&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&line_height=27)
-
-### 🔥 Contribution Streak
-[![GitHub Streak](https://streak-stats.demolab.com?user=Ayushrai987&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-
-### 📈 Most Used Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ayushrai987&layout=compact&theme=tokyonight&hide_border=true&langs_count=10)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ayushrai987&theme=tokyo-night&hide_border=true&area=true" />
 
 </div>
 
 ---
 
-## 📊 Contribution Graph
+# 🎯 2026 Goals
+
+* [ ] Become strong in **DSA with Java**
+* [ ] Build more production-quality full-stack applications
+* [ ] Go deeper into **Generative AI & AI Agents**
+* [ ] Build and deploy more real-world products
+* [ ] Contribute to open source
+* [ ] Secure a strong software development internship
+* [ ] Keep improving engineering fundamentals
+
+---
+
+# 🤝 Let's Connect
 
 <div align="center">
 
-### 📈 Your Contribution Activity
+If you're interested in **Web Development, AI, Hackathons, Open Source or building interesting products**, feel free to connect.
 
-![contribution graph](https://github.com/Ayushrai987/Ayushrai987/blob/output/github-contribution-graph.svg)
+<br>
 
-*Visual representation of your contribution activity over time! 📊*
+<a href="https://www.linkedin.com/in/ayush-rai-501355362/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="mailto:ayurai6387@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://github.com/Ayushrai987">
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
 </div>
 
 ---
 
-## 🚀 Featured Projects
-
 <div align="center">
 
-### 1️⃣ **Chronous** - Task & Time Management
-**Smart task scheduling application**
-- TypeScript • React • Firebase • Tailwind CSS
-- Real-time analytics & notifications
-- ⭐ Repository: [View on GitHub](https://github.com/Ayushrai987)
+### ⚡ Build things. Solve problems. Keep shipping.
 
-### 2️⃣ **Carbon Footprint Tracker** - Sustainability Intelligence
-**AI-powered environmental impact calculator**
-- TypeScript • Node.js • Python ML • MongoDB
-- Carbon impact analysis & eco-friendly suggestions
-- ⭐ Repository: [View on GitHub](https://github.com/Ayushrai987)
-
-### 3️⃣ **VoteBuddy** - Democratic Voting Platform
-**Secure digital voting system**
-- TypeScript • React • Node.js • PostgreSQL
-- Real-time vote counting & verification
-- ⭐ Repository: [View on GitHub](https://github.com/Ayushrai987)
-
-### 4️⃣ **Terrai AI** - ML Sustainability Model
-**Predictive modeling for climate insights**
-- Python • TensorFlow • NumPy • Pandas
-- Advanced data visualization & predictions
-- ⭐ Repository: [View on GitHub](https://github.com/Ayushrai987)
-
-### 5️⃣ **LeetCode Solutions** - DSA Repository
-**Optimized algorithm solutions**
-- Java • Python • C++
-- 50+ problems with detailed explanations
-- ⭐ Repository: [View on GitHub](https://github.com/Ayushrai987)
-
-### 6️⃣ **Creative Codex** - Competition Projects
-**Creative coding solutions**
-- Python • Jupyter • DSA
-- Award-winning implementations
-- ⭐ Repository: [View on GitHub](https://github.com/Ayushrai987)
-
-</div>
-
----
-
-## 📚 What I'm Currently Working On
-
-<div align="center">
-
-🔄 **Learning:** Rust • WebAssembly • Advanced LLMs
-🎯 **Building:** Full-stack SaaS applications  
-📖 **Reading:** System Design & AI Architecture
-🤝 **Open to:** Collaborations • Open Source Contributions • Freelance Projects
-
-</div>
-
----
-
-## 📫 Get In Touch
-
-<div align="center">
-
-**Let's connect and build something amazing together! 🚀**
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ayushrai987)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ayushrai987)
-[![Email](https://img.shields.io/badge/Email-Send%20Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=notion&logoColor=white)](your-portfolio-link)
-
----
-
-### 💬 Ask Me About
-- Full-stack web development
-- Machine Learning & AI applications
-- Cloud architecture & deployment
-- Open source contributions
-- Career guidance in tech
-
----
-
-<div align="center">
-
-### ⭐ If you find my work interesting, consider giving my repositories a star!
-
-**Made with ❤️ by Ayush Rai**
-
-*Last updated: 2024*
+**Thanks for visiting my profile! ⭐**
 
 </div>
