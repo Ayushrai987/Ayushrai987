@@ -1,231 +1,375 @@
 <div align="center">
 
-# 👋 Hey, I'm **Ayush Rai**
+# 👋 Hi, I'm <span style="color:#8B5CF6">Ayush Rai</span>
 
-### `Building useful software at the intersection of Web Development & AI.`
+### 💻 Full-Stack Developer  •  🤖 AI Enthusiast  •  🧠 Problem Solver
 
 <p>
-  <a href="https://github.com/Ayushrai987">
-    <img src="https://img.shields.io/badge/GitHub-Ayushrai987-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/ayush-rai-501355362/">
-    <img src="https://img.shields.io/badge/LinkedIn-Ayush%20Rai-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:ayurai6387@gmail.com">
-    <img src="https://img.shields.io/badge/Email-ayurai6387%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+Building practical web applications, exploring Generative AI,
+and turning ideas into working products.
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=Ayushrai987&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS" />
+<br/>
+
+<a href="https://github.com/Ayushrai987">
+<img src="https://img.shields.io/badge/GitHub-Ayushrai987-111827?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="https://www.linkedin.com/in/ayush-rai-501355362/">
+<img src="https://img.shields.io/badge/LinkedIn-Ayush%20Rai-111827?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
+</a>
+<a href="mailto:ayurai6387@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-111827?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
+</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=Ayushrai987&style=for-the-badge&color=8B5CF6&label=PROFILE+VIEWS"/>
 
 </div>
 
 ---
 
-## 🧠 About Me
+<table>
+<tr>
 
-I'm a **B.Tech Information Technology student** focused on becoming a strong software engineer by building real products instead of only following tutorials.
+<td width="55%" valign="top">
 
-My current focus is on:
+## ⚡ About Me
 
-* ⚡ Building modern **full-stack web applications**
-* 🤖 Exploring **Generative AI, AI integrations & automation**
-* 🧩 Strengthening **DSA & problem-solving with Java**
-* 🛠️ Turning ideas from hackathons into working products
-* ☁️ Learning deployment, APIs, backend systems and production workflows
-
-I enjoy working on projects where **frontend, backend, APIs, automation and AI come together**.
-
-> *Learn → Build → Break → Debug → Ship → Repeat.*
-
----
-
-## 🚀 What I'm Building
+I'm a **B.Tech Information Technology student** focused on building real-world software and developing strong engineering fundamentals.
 
 ```text
-Web Development     ████████████████████░  Strong focus
-Generative AI        █████████████████░░░  Growing
-Java + DSA           ████████████████░░░░  Building fundamentals
-Backend & APIs       ███████████████░░░░░  Developing
-Cloud & Deployment   ██████████████░░░░░░  Exploring
+🚀 Building       Full-Stack Web Applications
+🤖 Exploring      Generative AI & AI Agents
+🧠 Practicing     DSA with Java
+⚙️ Learning       Backend & APIs
+☁️ Exploring      Cloud & Deployment
+🏆 Participating   Hackathons & Tech Challenges
 ```
+
+### 🔭 Currently Building
+
+**AI-powered applications & automation workflows**
+
+I'm particularly interested in moving beyond simple AI chatbots toward systems that can **use tools, interact with APIs and actually perform tasks.**
+
+### 💬 Ask Me About
+
+`Java` `JavaScript` `React` `Web Development`
+`Generative AI` `DSA` `Firebase` `APIs` `Hackathons`
+
+### ⚡ Fun Fact
+
+> Sleep? That's a backend process.
+> I prefer running on async. 😴
+
+</td>
+
+<td width="45%" valign="top">
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rounded&height=220&text=BUILD%20%2B%20LEARN&fontSize=28&fontColor=ffffff&animation=fadeIn&color=0:111827,50:312e81,100:7c3aed"/>
+
+<br/><br/>
+
+### 👨‍💻 Developer Mode
+
+```text
+┌─────────────────────────────┐
+│                             │
+│  > Ayush.init()             │
+│                             │
+│  ✓ Web Development          │
+│  ✓ Java + DSA               │
+│  ✓ AI Exploration           │
+│  ✓ Project Building         │
+│  ✓ Hackathons               │
+│                             │
+│  status: building...        │
+│                             │
+└─────────────────────────────┘
+```
+
+</div>
+
+</td>
+
+</tr>
+</table>
 
 ---
 
 # 🛠️ Tech Stack
 
-### 💻 Languages
+<div align="center">
 
-<p>
-<img src="https://skillicons.dev/icons?i=java,js,ts,python,html,css" />
-</p>
+### Languages
 
-### 🎨 Frontend
+<img src="https://skillicons.dev/icons?i=java,js,python,html,css&theme=dark"/>
 
-<p>
-<img src="https://skillicons.dev/icons?i=react,vite,tailwind,threejs" />
-</p>
+### Frontend
 
-### ⚙️ Backend, Database & APIs
+<img src="https://skillicons.dev/icons?i=react,vite,tailwind,threejs&theme=dark"/>
 
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,firebase,mongodb,mysql" />
-</p>
+### Backend & Database
 
-### 🤖 AI & Automation
+<img src="https://skillicons.dev/icons?i=nodejs,express,firebase,mongodb,mysql&theme=dark"/>
 
-<p>
-<img src="https://skillicons.dev/icons?i=python" />
-<img src="https://img.shields.io/badge/Generative%20AI-8A2BE2?style=for-the-badge&logo=openai&logoColor=white" />
-<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
-<img src="https://img.shields.io/badge/Retell%20AI-111827?style=for-the-badge&logoColor=white" />
-</p>
+### AI, APIs & Tools
 
-### 🔧 Tools & Platforms
+<img src="https://skillicons.dev/icons?i=git,github,postman,vercel,vscode&theme=dark"/>
 
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,postman" />
-</p>
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Generative%20AI-8B5CF6?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white"/>
+<img src="https://img.shields.io/badge/REST%20APIs-2563EB?style=for-the-badge&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/WebRTC-111827?style=for-the-badge&logo=webrtc&logoColor=white"/>
+
+</div>
 
 ---
 
-# 🔥 Featured Projects
+# 🚀 Featured Projects
 
-## 🤖 JARVIS — Personal AI Voice Assistant
+<table>
+<tr>
 
-> A futuristic personal AI assistant combining real-time voice interaction, automation and live personal context.
+<td width="50%" valign="top">
 
-**Built with:** React • Vite • Retell AI • n8n • WebRTC • Google Calendar • APIs
+## 🤖 Personal AI
 
-**Highlights**
+### AI-powered personal assistant
 
-* 🎙️ Real-time bidirectional voice conversations
-* 🧠 AI-powered conversational interaction
-* ⚡ n8n automation backend
-* 🌦️ Live weather & news telemetry
-* 📅 Google Calendar integration
-* 🎨 Futuristic HUD-style interface
-* 🔐 Short-lived authentication tokens instead of exposing secrets
+A personal AI project exploring **voice interaction, automation, APIs and real-time communication**.
 
-🔗 **[View Repository →](https://github.com/Ayushrai987/Personal-Ai)**
+**Tech**
 
----
+`React` `Vite` `n8n` `Retell AI` `WebRTC`
 
-## ⏱️ Chronous — Intelligent Task & Time Management
+**Focus**
 
-> A smart task-management platform built around better scheduling and productivity.
+* 🎙️ Voice-based interaction
+* ⚡ Automation workflows
+* 🌦️ External API integration
+* 📅 Calendar integration
+* 📰 Real-time information
+* 🔐 API-based architecture
 
-**Built with:** TypeScript • React • Firebase • Tailwind CSS
+<div align="center">
 
-**Highlights**
+<a href="https://github.com/Ayushrai987/Personal-Ai">
+
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-8B5CF6?style=for-the-badge&logo=github&logoColor=white"/>
+
+</a>
+
+</div>
+
+</td>
+
+<td width="50%" valign="top">
+
+## ⏱️ Chronous
+
+### Intelligent Task Management
+
+A smart task management and scheduling application built during the **GTBIT Hackathon**.
+
+**Tech**
+
+`TypeScript` `React` `Firebase` `Tailwind CSS`
+
+**Focus**
 
 * 📋 Task management
-* 🧠 Intelligent scheduling concepts
-* 📊 Productivity-focused interface
+* 🧠 Smart scheduling
+* 📊 Productivity workflows
 * 🔔 Real-time functionality
-* 🏆 Built during a GTBIT hackathon
+* 🏆 Hackathon project
 
-🔗 **[View Repository →](https://github.com/Ayushrai987/Chronous)**
+<div align="center">
 
----
+<a href="https://github.com/Ayushrai987/Chronous">
+
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-8B5CF6?style=for-the-badge&logo=github&logoColor=white"/>
+
+</a>
+
+</div>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
 
 ## 🌱 Carbon Footprint Platform
 
-> An intelligent platform designed to help users understand and reduce their environmental impact.
+### Sustainability Intelligence
 
-**Built with:** TypeScript • AI/ML • Node.js • MongoDB
+A platform designed to help users **understand, track and reduce their carbon footprint** using data-driven insights.
 
-**Highlights**
+**Tech**
+
+`TypeScript` `Node.js` `Python` `MongoDB`
+
+**Focus**
 
 * 🌍 Carbon footprint analysis
-* 📊 Environmental insights
-* 🤖 Intelligent recommendations
-* 📈 Data-driven sustainability experience
+* 📊 Data visualization
+* 🤖 Intelligent insights
+* 🌱 Sustainability-focused UX
 
-🔗 **[View Repository →](https://github.com/Ayushrai987/carbon-footprint-platform)**
+<div align="center">
 
----
+<a href="https://github.com/Ayushrai987/carbon-footprint-platform">
+
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-8B5CF6?style=for-the-badge&logo=github&logoColor=white"/>
+
+</a>
+
+</div>
+
+</td>
+
+<td width="50%" valign="top">
 
 ## 🗳️ VoteBuddyy
 
-> A modern digital voting platform focused on transparency, usability and secure voting workflows.
+### Digital Voting Platform
 
-**Built with:** TypeScript • React • Node.js • PostgreSQL
+A modern voting platform focused on creating a **simple, transparent and secure digital voting experience**.
 
-**Highlights**
+**Tech**
 
-* 🗳️ Digital voting workflow
-* 🔐 Security-focused architecture
-* 📊 Real-time vote counting
-* 🎨 Modern user experience
+`TypeScript` `React` `Node.js` `PostgreSQL`
 
-🔗 **[View Repository →](https://github.com/Ayushrai987/VoteBuddyy)**
+**Focus**
 
----
+* 🗳️ Digital voting
+* 🔐 Authentication
+* 📊 Vote management
+* 🎨 Modern interface
 
-## 🧪 Creative Codex — XEN-O-THON
+<div align="center">
 
-> A machine-learning and data-science focused project developed for competitive problem solving.
+<a href="https://github.com/Ayushrai987/VoteBuddyy">
 
-**Built with:** Python • Jupyter Notebook • Data Science • Machine Learning
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-8B5CF6?style=for-the-badge&logo=github&logoColor=white"/>
 
-**Highlights**
+</a>
 
-* 📊 Data exploration & visualization
-* 🤖 Machine learning experimentation
-* 🧠 Problem-focused development
-* 🚀 Built in a hackathon environment
+</div>
 
-🔗 **[View Repository →](https://github.com/Ayushrai987/Creative-codex--xenothon)**
+</td>
 
----
+</tr>
+</table>
 
-# 🧩 DSA & Problem Solving
+<div align="center">
 
-Currently strengthening my problem-solving fundamentals with **Java**.
+<a href="https://github.com/Ayushrai987?tab=repositories">
 
-### Focus Areas
+<img src="https://img.shields.io/badge/EXPLORE%20ALL%20REPOSITORIES-111827?style=for-the-badge&logo=github&logoColor=white"/>
 
-`Arrays` `Strings` `Hashing` `Stack` `Queue` `Linked List` `Trees` `Graphs` `Recursion` `Dynamic Programming`
+</a>
 
-📌 I also maintain a dedicated repository for my **LeetCode solutions and DSA practice**.
-
-🔗 **[Explore DSA Repository →](https://github.com/Ayushrai987/Leetcode-soln)**
+</div>
 
 ---
 
-# 🏆 Achievements & Experience
+# 🧠 DSA & Problem Solving
 
-| 🚀 | Achievement                                                                          |
-| -- | ------------------------------------------------------------------------------------ |
-| 🥇 | **GDG / GTBIT Hackathon** — participated in building a real-world technical solution |
-| 💻 | **Hackathon Finalist** — experience building and presenting under time constraints   |
-| 📊 | **Data Analytics Job Simulation** — practical exposure to data analysis workflows    |
-| 🎓 | **8.8 CGPA** — B.Tech Information Technology                                         |
-| 🤖 | Participated in **Generative AI / AI-focused events & challenges**                   |
-| 🧠 | Participated in **PromptWars** and multiple competitive coding/tech challenges       |
+Currently strengthening my **DSA fundamentals using Java**.
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Language-Java-orange?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/Focus-Problem%20Solving-8B5CF6?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Practice-LeetCode-yellow?style=for-the-badge&logo=leetcode&logoColor=black"/>
+
+</div>
+
+My practice covers:
+
+`Arrays` · `Strings` · `Hashing` · `Stack` · `Queue` · `Linked List`
+`Trees` · `Graphs` · `Recursion` · `Greedy` · `Dynamic Programming`
+
+### 📚 DSA Repository
+
+<a href="https://github.com/Ayushrai987/Leetcode-soln">
+
+<img src="https://img.shields.io/badge/VIEW%20LEETCODE%20SOLUTIONS-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+
+</a>
 
 ---
 
-# 📚 Currently Learning
+# 🏆 Achievements
 
-```text
-Java + DSA
-    ↓
-Problem Solving
-    ↓
-React & Modern Frontend
-    ↓
-Backend + APIs
-    ↓
-AI Integrations
-    ↓
-Automation & AI Agents
-    ↓
-Production-ready Applications
-```
+<table>
+<tr>
 
-I'm particularly interested in moving from **"AI-powered features" → "AI agents that can actually perform tasks."**
+<td align="center" width="20%">
+
+### 🏅
+
+**Hackathon**
+
+GDG / GTBIT
+Hackathon
+
+</td>
+
+<td align="center" width="20%">
+
+### 📊
+
+**Data Analytics**
+
+Job Simulation
+
+</td>
+
+<td align="center" width="20%">
+
+### 💼
+
+**Virtual Internship**
+
+Deloitte
+Job Simulation
+
+</td>
+
+<td align="center" width="20%">
+
+### 🤖
+
+**GenAI**
+
+Participated in
+AI-focused events
+
+</td>
+
+<td align="center" width="20%">
+
+### 🎓
+
+**8.8**
+
+CGPA
+B.Tech IT
+
+</td>
+
+</tr>
+</table>
 
 ---
 
@@ -233,17 +377,17 @@ I'm particularly interested in moving from **"AI-powered features" → "AI agent
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Ayushrai987&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+<a href="https://github.com/Ayushrai987">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayushrai987&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Ayushrai987&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github&include_all_commits=true"/>
 
-</div>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayushrai987&layout=compact&hide_border=true&theme=tokyonight&langs_count=8"/>
 
-<br>
+</a>
 
-<div align="center">
+<br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=Ayushrai987&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=Ayushrai987&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -253,21 +397,80 @@ I'm particularly interested in moving from **"AI-powered features" → "AI agent
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ayushrai987&theme=tokyo-night&hide_border=true&area=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ayushrai987&bg_color=0d1117&color=8b5cf6&line=6366f1&point=a78bfa&area=true&hide_border=true"/>
 
 </div>
 
 ---
 
-# 🎯 2026 Goals
+# 🎯 Current Focus
 
-* [ ] Become strong in **DSA with Java**
-* [ ] Build more production-quality full-stack applications
-* [ ] Go deeper into **Generative AI & AI Agents**
-* [ ] Build and deploy more real-world products
-* [ ] Contribute to open source
-* [ ] Secure a strong software development internship
-* [ ] Keep improving engineering fundamentals
+<table>
+<tr>
+
+<td width="33%" align="center">
+
+### 🧩 DSA
+
+Java
+Problem Solving
+Algorithms
+Data Structures
+
+</td>
+
+<td width="33%" align="center">
+
+### 🤖 AI
+
+Generative AI
+AI APIs
+Automation
+AI Agents
+
+</td>
+
+<td width="33%" align="center">
+
+### 🌐 Development
+
+React
+Backend
+APIs
+Deployment
+
+</td>
+
+</tr>
+</table>
+
+---
+
+# 🌌 My Development Journey
+
+```text
+        Learn
+          │
+          ▼
+       Build
+          │
+          ▼
+       Debug
+          │
+          ▼
+      Understand
+          │
+          ▼
+        Ship
+          │
+          ▼
+       Improve
+          │
+          └───────────────↺
+```
+
+> I don't want to just learn technologies.
+> I want to understand them well enough to **build something useful with them.**
 
 ---
 
@@ -275,30 +478,24 @@ I'm particularly interested in moving from **"AI-powered features" → "AI agent
 
 <div align="center">
 
-If you're interested in **Web Development, AI, Hackathons, Open Source or building interesting products**, feel free to connect.
+### Have an interesting idea? Let's build it.
 
-<br>
+<br/>
+
+<a href="https://github.com/Ayushrai987">
+<img src="https://img.shields.io/badge/GitHub-Ayushrai987-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 <a href="https://www.linkedin.com/in/ayush-rai-501355362/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/LinkedIn-Ayush%20Rai-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:ayurai6387@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+<img src="https://img.shields.io/badge/Email-ayurai6387-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://github.com/Ayushrai987">
-<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+<br/><br/>
 
-</div>
-
----
-
-<div align="center">
-
-### ⚡ Build things. Solve problems. Keep shipping.
-
-**Thanks for visiting my profile! ⭐**
+**⚡ Build. Break. Learn. Ship. Repeat.**
 
 </div>
